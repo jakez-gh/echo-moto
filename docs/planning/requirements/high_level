@@ -15,3 +15,5 @@ Deployment:
 - Actions builds debug APK on push.
 - Optional Firebase: One-click tester installs (free tier).
 - Sideload via wireless ADB for instant visibility.
+
+Architecture: Passive → Surprise → Silence Gate → Partial Inference → Subtle Response → Local Growth (Risk-Mitigated Loops).
