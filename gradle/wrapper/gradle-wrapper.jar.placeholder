@@ -1,0 +1,9 @@
+# Gradle Wrapper JAR
+# This is a placeholder file for the gradle-wrapper.jar
+# The actual JAR will be downloaded when you first run ./gradlew
+# 
+# To download the wrapper JAR manually:
+# 1. Run: ./gradlew wrapper
+# 2. Or download from: https://services.gradle.org/distributions/
+#
+# The gradle-wrapper.jar is required for GitHub Actions to work properly
