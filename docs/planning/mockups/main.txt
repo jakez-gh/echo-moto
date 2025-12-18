@@ -1,0 +1,14 @@
++-------------------------------+
+|        Echo Companion         |
+|                               |
+|   [Subtle Pulse Indicator]    |  <-- Listening / Learning faint glow
+|                               |
+|                               |
+|   (Floating Bubble Appears)   |
+|   "They sound thoughtful—     |
+|    ask how they're feeling?"  |  <-- Whisper suggestion
+|                               |
+|                               |
++-------------------------------+
+| [Settings]   [Privacy Toggles]|
++-------------------------------+
