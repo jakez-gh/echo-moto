@@ -1,5 +1,13 @@
 Non-Functional Requirements
 
+- Performance: Partial module activation; <500ms latency target.
+- Battery: Passive <5%/hour; throttle learns.
+- Privacy/Security: Local encrypted storage; runtime permissions; differential privacy noise.
+- Testing: TDD mandatory; red-green-refactor every feature.
+- Development Visibility: Engineers see progress frequently via milestone deploys (GitHub Actions artifact + wireless ADB/Firebase free distro).
+- Tools: GitHub private repo; optional Firebase Spark for one-click installs (generous free limits).
+
+
 - Platform: Android (Moto G specific); Kotlin + Jetpack Compose.
 - Inference: MediaPipe/NexaSDK; scratch micro-transformer init.
 - Dependencies: Free/open-source (MediaPipe, Whisper-tiny quantized, Piper TTS).
