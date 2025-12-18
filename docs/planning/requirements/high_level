@@ -1,0 +1,17 @@
+Architecture Overview
+
+Core Components:
+- Passive Sensors → Event Detector → Surprise Meter → Decision Gate (Silence Default) → Partial Inference (Modular Micro-Layers) → Response (Overlay/TTS/Silence) → Record/Transcribe → Curiosity Engine → Growth Bursts (Battery-Gated).
+
+Data Flow:
+1. All audio/events captured locally.
+2. Transcribed/tagged/embedded.
+3. Surprise scored (SuRe NLL/RPE).
+4. High-surprise → Replay priority + optional probe.
+5. Growth: Incremental/full-param on thresholds.
+
+Deployment:
+- GitHub repo tracks code/issues.
+- Actions builds debug APK on push.
+- Optional Firebase: One-click tester installs (free tier).
+- Sideload via wireless ADB for instant visibility.
